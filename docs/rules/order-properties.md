@@ -18,8 +18,8 @@ Examples of **incorrect** code for this rule:
 
 ```json
 {
-	"name": "my-package",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"name": "my-package"
 }
 ```
 
